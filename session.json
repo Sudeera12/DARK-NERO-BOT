@@ -1,48 +1,6 @@
 {
   "creds": {
-    "noiseKey": {
-      "private": {
-        "type": "Buffer",
-        "data": "YG89+o+PhTh1p0Mkrpt6YnY4JndkfUf03wjAcOosjkw="
-      },
-      "public": {
-        "type": "Buffer",
-        "data": "Gvx617CgvvxsTXivMO27xLfys10mF3ZOxMcj4+KebkU="
-      }
-    },
-    "signedIdentityKey": {
-      "private": {
-        "type": "Buffer",
-        "data": "sPjaxIt7lm84Ee/v1IC2jiY5mDCUyIx28gBVv5vKAnE="
-      },
-      "public": {
-        "type": "Buffer",
-        "data": "9Qa3Qj25aXyX6OcbVNNNJ8P7Ug95CgmPLwrg4+DpiAc="
-      }
-    },
-    "signedPreKey": {
-      "keyPair": {
-        "private": {
-          "type": "Buffer",
-          "data": "6GbqjxTyPToA0TB5hr18tAmMB5cWLYfGRn2zEHz3bnU="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "NYIJHrwG5EOf4BIXX2s0VBbrES943ubip8v5CTh4HzQ="
-        }
-      },
-      "signature": {
-        "type": "Buffer",
-        "data": "fqrEYiKx1h2U5B+aueJyyuHGq6aLSWqhZ6N1vFUDj6q0V4nK1vel5+xutDSBpDKHOc4jV1ERz893YzFl1Y+ejw=="
-      },
-      "keyId": 1
-    },
-    "registrationId": 65,
-    "advSecretKey": "P/F9548coXzmEZwro4HaErImMZ9wWjhCDINE8Mw/WYQ=",
-    "nextPreKeyId": 31,
-    "firstUnuploadedPreKeyId": 31,
-    "serverHasPreKeys": true,
-    "account": {
+    "
       "details": "CO+Zxb8HEO+Z7ZYGGAE=",
       "accountSignatureKey": "vH/MLDQPnZL7hwWMd775FblzOxIbSwP10ZtB7fgEe1U=",
       "accountSignature": "cdjBaXeEFuyfg3LXNFpC9ESTw0rlzuP8ZGBkx9tSmvJfaExCRTsHgGS8DC6zMf+CshzNp3Rlr+Tu38z5dwGoAQ==",
